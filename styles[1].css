@@ -1,0 +1,181 @@
+.cs{
+    color: black;
+    position: absolute;
+    top: 100px;
+}
+body{
+    background-image: url('https://www.dtn.com/wp-content/uploads/2021/03/ag_aeiral-field_img-header_0321.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-blend-mode:darken;
+}
+
+h1{
+    color: brown;
+    font-family:'cursive',Brush Script MT, Brush Script Std, cursive;
+    font-size: 500%; 
+    bottom: 620px;
+    right: 1200px;
+    text-align: start;
+}
+.homebutton button{
+    position: absolute;
+    cursor: pointer;
+    background-color: transparent;
+    font-size: large;
+    left: 1230px;
+    bottom: 650px;
+
+}
+.profilebutton button{
+    position: absolute;
+    cursor: pointer;
+    background-color: transparent;
+    font-size: large;
+    left: 1300px;
+    bottom: 650px;
+    
+}
+.temp{
+    position: absolute;
+    bottom: 507px;
+    background-color: transparent;
+    color: white;
+    right: 1300px;
+    
+}
+
+.humi{
+    position: absolute;
+    left: 700px;
+    bottom: 500px;
+    color: white;
+}
+.moi{
+    position:absolute;
+    left: 1250px;
+    bottom: 505px;
+    color: white;
+}
+.ts{
+    position:absolute;
+    top: 230px;
+    left: 30px
+
+}
+
+.hs{
+    position: absolute;
+    left: 650px;
+    top: 240px;
+}
+
+.ms{
+    position: absolute;
+    left: 1200px;
+    top: 230px;
+}
+h2{
+    color: white;
+}
+.tempgif{
+    position: absolute;
+    bottom: 170px;
+    
+}
+.humigif{
+    position: absolute;
+    bottom: 200px;
+    right: 600px;
+    top: 300px;
+}
+.moisgif{
+    position: absolute;
+    bottom: 200px;
+    left: 1150px;
+    top: 300px;
+
+}
+.aboutbutton button{
+    position: absolute;
+    cursor: pointer;
+    background-color: transparent;
+    font-size: large;
+    left: 1400px;
+    top: 1000px;
+}
+.cont{
+    position: absolute;
+    cursor: pointer;
+    background-color: transparent;
+    top: 1010px;
+}
+.pp{
+    position:absolute;
+    top: 939px;
+    left: 90px;
+}
+.tc{
+    position: absolute;
+    top: 939px;
+    left: 225px;
+}
+.subbutton button{
+    position: absolute;
+    background-color: transparent;
+    font-size: large;
+    color: blueviolet;
+    cursor: pointer;
+    left: 500px;
+
+
+}
+.fd{
+    position: absolute;
+    top: 961px;
+    font-size: large;
+    left: 415px;
+    
+
+}
+.ginput{
+    position: absolute;
+    top: 350px;
+    background-color: red;
+}
+.dinput{
+    position: absolute;
+    top: 300px;
+    background-color: red;
+
+}
+.ainput{
+    position: absolute;
+    top: 400px;
+    background-color: red;
+}
+.linput{
+    position: absolute;
+    top: 450px;
+    background-color: red;
+}
+.isbutton{
+    position: absolute;
+    top: 500px;
+    background-color: red;
+}
+.description{
+    position: absolute;
+    top: 590px;
+    color:tomato;
+    font-style: italic;
+}
+.feedbackclass{
+    color: white;
+}
+
+.regicon{
+    position: absolute;
+    top: 100px;
+    left: 300px;
+}
